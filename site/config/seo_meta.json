@@ -1,13 +1,13 @@
 {
-  "title": "Oulfa Store",
-  "titleTemplate": "%s - Oulfa Store",
-  "description": "Oulfa Store - https://www.oulfa.store",
+  "title": "ACME Storefront | Powered by Next.js Commerce",
+  "titleTemplate": "%s - ACME Storefront",
+  "description": "Next.js Commerce - https://www.nextjs.org/commerce",
   "openGraph": {
-    "title": "ACME Storefront | Powered by Oulfa Store",
-    "description": "Oulfa Store - https://www.oulfa.store",
+    "title": "ACME Storefront | Powered by Next.js Commerce",
+    "description": "Next.js Commerce - https://www.nextjs.org/commerce",
     "type": "website",
-    "url": "https://www.oulfa.store",
-    "site_name": "Oulfa Store",
+    "url": "https://nextjs.org/commerce",
+    "site_name": "Next.js Commerce",
     "images": [
       {
         "url": "/card.png",
